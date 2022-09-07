@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+
+sitemap: https://dcoloring.github.io/super-hero/sitemapx.xml
